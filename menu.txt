@@ -1,0 +1,6 @@
+Coffee, 2.5
+Tea, 2.0
+Sandwich, 5.0
+Burger, 7.0
+Fries, 3.0
+Salad, 4.5
